@@ -1,0 +1,4 @@
+run_id,latency_ms,tokens_per_sec,avg_entropy,min_entropy
+q1_r1,1800,42.1,1.95,0.18
+q1_r2,1750,44.0,1.97,0.21
+q2_r1,1920,40.5,1.99,0.16

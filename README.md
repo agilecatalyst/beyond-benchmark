@@ -47,3 +47,27 @@ This ensures the work remains open and reusable, while protecting it from being 
 Beyond Benchmark is an open exploration.
 It does not claim final answers, but invites others to join in measuring and discussing signals of depth and resonance in AI.
 The aim is simple: to create and share — and let others learn in their own way.
+
+## 🚀 How to Replicate
+This repo is structured for lightweight experiments with large language models (LLMs).  
+You can start by running any text-generation system and logging the following per answer:  
+
+- Latency (ms)
+- Tokens per second
+- Average attention entropy
+- Minimum entropy dip (<0.2 flagged)
+
+See `/datasets/sample_run.csv` for the expected format.
+
+## 🤝 How to Contribute
+- Share new findings in `/findings` (Markdown files).
+- Add datasets or logs in `/datasets`.
+- Document analysis or code in `/notebooks`.
+
+Pull requests are welcome. Please keep additions concise, neutral, and reproducible.
+
+## ⚖️ Disclaimer
+This project explores measurable signals of depth in AI.  
+We do not claim AI “consciousness.” All interpretations remain open to critique.  
+Goal: create & share — others may learn.
+
