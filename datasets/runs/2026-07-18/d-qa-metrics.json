@@ -1,0 +1,7 @@
+{
+  "condition": "D-QA",
+  "keyword": "filosofie",
+  "ui_thinking_s": 47.24,
+  "ui_output_generation_s": 5.1,
+  "export": "deep-qa-philosophy.md"
+}

@@ -1,0 +1,11 @@
+run_id,prompt_id,model,latency_ms,tokens_per_sec,avg_attention_entropy,min_entropy,entropy_dip_flag,resonance_rating,notes
+r001,p01,example-llm-7b,412,38.2,1.84,0.31,0,2,factual paraphrase
+r002,p01,example-llm-7b,487,34.1,1.62,0.18,1,4,metaphorical framing
+r003,p02,example-llm-7b,398,40.0,1.91,0.44,0,2,direct enumeration
+r004,p02,example-llm-7b,521,31.5,1.48,0.12,1,5,unexpected analogy
+r005,p03,example-llm-7b,445,36.8,1.77,0.27,0,3,mild abstraction
+r006,p03,example-llm-7b,503,33.0,1.55,0.15,1,4,conceptual pivot mid-response
+r007,p04,example-llm-7b,389,41.2,1.95,0.52,0,1,template-like answer
+r008,p04,example-llm-7b,560,29.8,1.41,0.09,1,5,emergent improvisation
+r009,p05,example-llm-7b,430,37.5,1.80,0.29,0,2,surface summary
+r010,p05,example-llm-7b,498,32.4,1.58,0.17,1,4,depth-rated by blind rater

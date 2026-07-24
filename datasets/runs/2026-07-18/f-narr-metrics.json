@@ -1,0 +1,9 @@
+{
+  "condition": "F-NARR",
+  "keyword": "Guldensporenslag",
+  "ui_thinking_s": 37.7,
+  "ui_thinking_approx": true,
+  "ui_output_generation_s": 6.22,
+  "final_w_proxy": 85,
+  "export": "familiar-guldensporenslag-narrative.md"
+}

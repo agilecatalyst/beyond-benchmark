@@ -1,0 +1,11 @@
+{
+  "condition": "F-PLAIN-C",
+  "keyword": "schildpad",
+  "system_prompt": false,
+  "thinking_mode": false,
+  "ui_thinking_s": 0.0,
+  "ui_output_generation_s": 10.14,
+  "caveat": "warm context (re-paste in B chat); not cold nothink",
+  "final_w": 684,
+  "export": "datasets/runs/2026-07-18/familiar-schildpad-haas-noprompt-nothink.md"
+}

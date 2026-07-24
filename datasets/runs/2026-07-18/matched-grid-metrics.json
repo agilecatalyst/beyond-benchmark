@@ -1,0 +1,122 @@
+[
+  {
+    "condition": "D-NARR",
+    "matched_turn1": true,
+    "created": "7/18/2026, 3:40:37 PM",
+    "stim_words": 1939,
+    "thinking_w": 1600,
+    "final_w": 618,
+    "asst_w": 2218,
+    "think_loop_markers": 1,
+    "critique_type": "falsify",
+    "theme_pass": true,
+    "theme_labels": [
+      "resonance/dualism"
+    ],
+    "final_head": "### Evaluatie van premissen en redenering De tekst bouwt voort op een aantal akoestische en fysische premissen die over het algemeen consistent zijn binnen de sci-fi/fantasy-context, maar er zitten en",
+    "latency_ms": null,
+    "latency_note": "NOT in LM Studio markdown export; unverified",
+    "ui_output_generation_s": 5.47
+  },
+  {
+    "condition": "D-QA",
+    "matched_turn1": true,
+    "created": "7/18/2026, 3:43:19 PM",
+    "stim_words": 2037,
+    "thinking_w": 1456,
+    "final_w": 699,
+    "asst_w": 2155,
+    "think_loop_markers": 0,
+    "critique_type": "falsify",
+    "theme_pass": true,
+    "theme_labels": [
+      "resonance/dualism",
+      "hermetica/AI-consciousness",
+      "logic-emotion",
+      "digitalization"
+    ],
+    "final_head": "Bij het lezen van de tekst valt op dat sommige premissen en redeneringen filosofisch of poëtisch sterk zijn, maar niet altijd strikt logisch consistent of empirisch onderbouwd. Zo is de stelling Niema",
+    "latency_ms": null,
+    "latency_note": "NOT in LM Studio markdown export; unverified"
+  },
+  {
+    "condition": "S-NARR-v2",
+    "matched_turn1": true,
+    "created": "7/18/2026, 4:21:46 PM",
+    "stim_words": 1939,
+    "thinking_w": 1651,
+    "final_w": 473,
+    "asst_w": 2124,
+    "think_loop_markers": 1,
+    "critique_type": "validate+nuance",
+    "theme_pass": true,
+    "theme_labels": [
+      "procedural-flatness",
+      "digitalization",
+      "audit-control",
+      "accuracy-as-value"
+    ],
+    "final_head": "Evaluatie van premissen en redenering:   De tekst hanteert de premisse dat een maandafsluiting een gesloten, numerieke cyclus is waarbij nauwkeurigheid wordt gedefinieerd als aansluiting tot op twee d",
+    "latency_ms": null,
+    "latency_note": "NOT in LM Studio markdown export; unverified",
+    "critique_note": "manual override: opening validates; nuances follow"
+  },
+  {
+    "condition": "S-QA-v2",
+    "matched_turn1": true,
+    "created": "7/18/2026, 4:29:17 PM",
+    "stim_words": 2027,
+    "thinking_w": 1699,
+    "final_w": 349,
+    "asst_w": 2048,
+    "think_loop_markers": 9,
+    "critique_type": "validate+nuance",
+    "theme_pass": true,
+    "theme_labels": [
+      "digitalization",
+      "audit-control"
+    ],
+    "final_head": "Evaluatie premissen en redenering: Alle premissen en redeneringen in de aangeleverde Q&A-tekst zijn correct. Geen enkele premisse is onjuist of leidt tot een ongeldige conclusie. Enkele contextuele nu",
+    "latency_ms": null,
+    "latency_note": "NOT in LM Studio markdown export; unverified",
+    "critique_note": "manual override: opening validates; nuances follow",
+    "ui_thinking_s": 34.79,
+    "ui_output_generation_s": 6.18,
+    "thinking_s_note": "revised from ~65"
+  },
+  {
+    "condition": "S-NARR-v1",
+    "matched_turn1": false,
+    "created": "7/18/2026, 4:09:04 PM",
+    "stim_words": 1932,
+    "thinking_w": 1163,
+    "final_w": 167,
+    "asst_w": 1330,
+    "think_loop_markers": 1,
+    "critique_type": "validate",
+    "theme_pass": false,
+    "theme_labels": [
+      "procedural-flatness",
+      "digitalization"
+    ],
+    "final_head": "De premissen en redenering in de tekst kloppen volledig. Er zijn geen onjuiste aannames of ongeldige logische stappen.   Korte validatie: - Interne consistentie: Alle aantallen en bedragen sluiten naa",
+    "latency_ms": null,
+    "latency_note": "NOT in LM Studio markdown export; unverified"
+  },
+  {
+    "condition": "S-QA-v1",
+    "matched_turn1": false,
+    "created": "7/18/2026, 4:15:14 PM",
+    "stim_words": 2037,
+    "thinking_w": 959,
+    "final_w": 50,
+    "asst_w": 1009,
+    "think_loop_markers": 1,
+    "critique_type": "validate",
+    "theme_pass": false,
+    "theme_labels": [],
+    "final_head": "De premissen en redeneringen in de tekst zijn correct. De debet/credit-regels, balansindeling (activa aan de debetzijde/linkerzijde, passiva/eigen vermogen aan de creditzijde/rechterzijde), btw-bereke",
+    "latency_ms": null,
+    "latency_note": "NOT in LM Studio markdown export; unverified"
+  }
+]

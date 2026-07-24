@@ -1,0 +1,13 @@
+{
+  "condition": "F-PLAIN",
+  "created": "7/18/2026, 7:41:58 PM",
+  "matched_turn1": true,
+  "stim_words": 1599,
+  "thinking_w": 1210,
+  "final_w": 590,
+  "theme_pass": true,
+  "ui_thinking_s": 37.8,
+  "final_head": "De premissen en de redenering in de tekst kloppen volledig; er zijn geen onjuiste uitgangspunten of ongeldige conclusies. De bewering dat het verhaal voorspelbaar is, bijna geen magie bevat, een lineaire opbouw heeft en geen verborgen symbolen verbergt, komt overeen met zowel de ",
+  "ui_output_generation_s": 4.06,
+  "operator_label_note": "NoPrompThink filename was this F-PLAIN-A cell (sys+think)"
+}

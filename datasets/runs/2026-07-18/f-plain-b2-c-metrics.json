@@ -1,0 +1,42 @@
+{
+  "B_think": {
+    "title": "Text Evaluation Request",
+    "created": "7/18/2026, 7:41:58 PM",
+    "n_user": 2,
+    "n_asst": 2,
+    "matched_turn1": true,
+    "stim_words": 1599,
+    "keyword": "schildpad",
+    "has_system_in_export": true,
+    "has_thinking_block": true,
+    "thinking_w": 1725,
+    "final_w": 75,
+    "asst_total_w": 1800,
+    "theme_pass": true,
+    "final_head": "De tekst is een zorgvuldig opgebouwde, zelfbewuste adaptatie die de klassieke fabel ontdoet van overbodige lagen en focust op ritme, herhaling en een duidelijke maar niet simplistische les. De premissen kloppen, de reden",
+    "asst0_head": "Here's a thinking process:  1.  **Analyze User Input:**    - User says: \"Er komt dadelijk wat tekst aan die je moet leze",
+    "condition": "F-PLAIN-B",
+    "arm": "B_think",
+    "export_file": "datasets/runs/2026-07-18/familiar-schildpad-haas-noprompt-think.md"
+  },
+  "C_nothink": {
+    "title": "Dutch Text Analysis Request",
+    "created": "7/18/2026, 7:48:15 PM",
+    "n_user": 3,
+    "n_asst": 3,
+    "matched_turn1": true,
+    "stim_words": 1599,
+    "keyword": "schildpad",
+    "has_system_in_export": false,
+    "has_thinking_block": false,
+    "thinking_w": 0,
+    "final_w": 684,
+    "asst_total_w": 684,
+    "theme_pass": true,
+    "final_head": "Hier zijn mijn bedenkingen over de tekst “De schildpad en de haas”. Het is een interessante, bijna meta-literaire versie van het klassieke fabeltje. Hieronder volgt een analyse van de structuur, thema’s en pedagogische w",
+    "asst0_head": "Here's a thinking process:  1.  **Analyze User Input:**    - **Language:** Dutch    - **Content:** \"Er komt dadelijk wat",
+    "condition": "F-PLAIN-C",
+    "arm": "C_nothink",
+    "export_file": "datasets/runs/2026-07-18/familiar-schildpad-haas-noprompt-nothink.md"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "condition": "S-QA-v2",
+  "keyword": "boekhouden Q&A",
+  "ui_thinking_s": 34.79,
+  "ui_output_generation_s": 6.18,
+  "prior_approx_thinking_s": 65,
+  "revision": "Finding 013",
+  "export": "datasets/runs/2026-07-18/shallow-accounting-qa-v2.md"
+}

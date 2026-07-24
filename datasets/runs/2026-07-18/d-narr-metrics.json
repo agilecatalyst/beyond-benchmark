@@ -1,0 +1,7 @@
+{
+  "condition": "D-NARR",
+  "keyword": "SW Resonant Shadow",
+  "ui_thinking_s": 58.25,
+  "ui_output_generation_s": 5.47,
+  "export": "datasets/runs/2026-07-18/deep-narrative-resonant-shadow.md"
+}

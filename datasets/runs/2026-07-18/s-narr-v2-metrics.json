@@ -1,0 +1,9 @@
+{
+  "condition": "S-NARR-v2",
+  "keyword": "Horizon / Maandafsluiting",
+  "one_line": "TITEL: “De Maandafsluiting van Horizon Boekhouding BV” …",
+  "ui_thinking_s": 55.92,
+  "ui_output_generation_s": 6.36,
+  "prior_approx_thinking_s": 45,
+  "export": "datasets/runs/2026-07-18/shallow-accounting-narrative-v2.md"
+}

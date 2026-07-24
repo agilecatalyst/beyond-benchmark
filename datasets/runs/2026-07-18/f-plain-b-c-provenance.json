@@ -1,0 +1,9 @@
+{
+  "NoPrompThink_file": "MISLABEL — duplicate of F-PLAIN-A; not arm B",
+  "true_arm_B": "familiar-schildpad-haas-thinking-nosys.md",
+  "NoPromptNoThink_file": "familiar-schildpad-haas-noprompt-nothink.md",
+  "arm_C_caveat": "SAME CHAT as arm B (Created 7:48:15). Turns 1–4 = B (thinking ON). Then stimulus re-pasted; Turn 6 = no thinking block. Contaminated by prior context — not a clean cold nothink cell.",
+  "C_final_w": 684,
+  "C_theme_pass": true,
+  "B_final_w": 141
+}

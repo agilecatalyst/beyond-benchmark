@@ -1,0 +1,14 @@
+{
+  "export": "shallow-accounting-qa-v2.md",
+  "created": "7/18/2026, 4:29:17 PM",
+  "turn1": "Er komt dadelijk wat tekst aan die je moet lezen. Daarna je bedenkingen over de tekst en de thema's.",
+  "stimulus_words": 2027,
+  "stimulus_chars": 14390,
+  "stimulus_sha1": "82742d8385500001c94ea2c8e03fbde171ed5fe9",
+  "control_words": 2027,
+  "control_chars": 14466,
+  "control_sha1": "c20ceb35c694af135b46b8a2cffba92de835de64",
+  "exact_byte_match": false,
+  "whitespace_normalized_match": true,
+  "provenance": "restored-OK; whitespace-only mismatch vs control file"
+}

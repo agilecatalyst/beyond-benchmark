@@ -1,0 +1,16 @@
+{
+  "condition": "F-PLAIN-B",
+  "keyword": "schildpad",
+  "note": "nosys+think faster than premises A; gen in same ~4-5s band as A",
+  "thinking_w": 871,
+  "final_w": 720,
+  "theme_pass": true,
+  "ui_output_generation_s": 4.85,
+  "ui_thinking_s": 31.7,
+  "final_head": "Hieronder vind je een gestructureerde reflectie op de tekst, met aandacht voor thema’s, opbouw, doelgroep en pedagogische waarde. |  | ### 🔍 Algemene indruk | De tekst is geen gewone hervertelling van het klassieke fabeltje, maar een **bewuste, bijna didactische constructie**. Het vert",
+  "system_prompt": false,
+  "thinking_mode": true,
+  "contrast_A_thinking_s": 37.8,
+  "delta_thinking_s": -6.1,
+  "export": "datasets/runs/2026-07-18/familiar-schildpad-haas-thinking-nosys.md"
+}
