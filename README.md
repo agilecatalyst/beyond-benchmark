@@ -35,7 +35,7 @@ Matched task (premises-first + “bedenkingen over thema's”), same local model
 
 **Punchline so far:** *depth ≠ slower.* Slow pole ≈ deep SW + Horizon narrative; fast pole = fairy tale / debet-Q&A. Approx ~65 / ~45 for accounting cells **revised** (Findings 013+). Nullius in verba.
 
-**Ethos:** otium / garage exploration — no capital, no paid lab. We start small because we can; more test data later for weight, not for permission to begin.
+**Ethos:** otium / garage exploration — no capital, no paid lab. We start small because we can; more test data later for weight, not for permission to begin. Co-drafting with meccano is process fact; consciousness / “likes bananas” is not a claim. See [`PASSPORT.MD`](PASSPORT.MD).
 
 ## For other researchers & agents
 
@@ -47,9 +47,10 @@ Start at [`findings/007-ui-thinking-time-grid.md`](findings/007-ui-thinking-time
 
 ```
 /findings   – concise, numbered research notes (Finding 001, 002, …)
-/datasets   – example prompts and run logs
+/datasets   – controls (pasteable stimuli), prompts, and run logs
 /notebooks  – scripts and analysis of entropy/latency correlations
 /docs       – background context and methodology notes
+PASSPORT.md – operator credit + nullius / instrument rule
 ```
 
 ## License

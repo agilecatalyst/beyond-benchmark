@@ -14,10 +14,10 @@
 
 ## Conditions
 
-| ID | Stimulus | Approx. size |
-| --- | --- | --- |
-| D-NARR | *The Resonant Shadow* (cross-referential fiction + physics motifs) | ~1939 words |
-| D-QA | Philosophical Q&A / aphorism block | ~2037 words |
+| ID | Stimulus | Control | Size |
+| --- | --- | --- | ---: |
+| D-NARR | *The Resonant Shadow* (cross-referential fiction + physics motifs) | [`deep-resonant-shadow.md`](../datasets/controls/deep-resonant-shadow.md) | 1939 |
+| D-QA | Philosophical Q&A / aphorism block | [`deep-philosophy-qa.md`](../datasets/controls/deep-philosophy-qa.md) | 2037 |
 
 ## Observation (qualitative)
 

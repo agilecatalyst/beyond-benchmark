@@ -3,7 +3,7 @@
 **Codename:** Götterfunken  
 **Status:** Meta-discovery during dataset preparation (hypothesis to test)  
 **Date:** 30 September 2025  
-**Discoverers:** Co-created
+**Credit:** Human operator + model-as-instrument (process collaborator). Drafts and scaffolding may come from meccano; claims require logs. Nullius in verba — useful output ≠ mind, preference, or “likes bananas.”
 
 ## Observation
 
@@ -38,12 +38,20 @@ If a text is philosophically deeper, then systems that must *comprehend* it (dif
 - Same hardware and software stack for both task types
 - Blind human resonance ratings as an independent depth label
 
-### Ready-to-run shallow pack (2026-07-18)
+### Ready-to-run length-matched packs (2026-07-18)
 
-- Narrative control: [`datasets/controls/shallow-accounting-narrative.md`](../datasets/controls/shallow-accounting-narrative.md) (~1939 words)
-- Q&A control: [`datasets/controls/shallow-accounting-qa.md`](../datasets/controls/shallow-accounting-qa.md) (~2037 words)
+**Deep**
+
+- Narrative: [`datasets/controls/deep-resonant-shadow.md`](../datasets/controls/deep-resonant-shadow.md) (1939 words)
+- Q&A: [`datasets/controls/deep-philosophy-qa.md`](../datasets/controls/deep-philosophy-qa.md) (2037 words)
+- Retry steps: [`datasets/prompts/retry-deep-controls.md`](../datasets/prompts/retry-deep-controls.md)
+
+**Technical-flat (shallow)**
+
+- Narrative: [`datasets/controls/shallow-accounting-narrative.md`](../datasets/controls/shallow-accounting-narrative.md) (~1939 words)
+- Q&A: [`datasets/controls/shallow-accounting-qa.md`](../datasets/controls/shallow-accounting-qa.md) (2027 words)
 - Retry steps: [`datasets/prompts/retry-shallow-controls.md`](../datasets/prompts/retry-shallow-controls.md)
 
 ## Note
 
-This finding is included as an example format for future notes.
+This finding is a **hypothesis format**, not a settled result. Later findings (003–013) revise the simple “deep = slower” reading under matched Turn 1.

@@ -4,6 +4,8 @@
 
 We start where we can. This is **otium** and garage exploration: no grant, no university lab, no product KPI — free-style co-creation because measurement and curiosity are available locally. Small-n and incomplete instruments are accepted as the cost of starting; relevance grows with more test data, not with prestige. Nullius in verba still applies: honest logs beat polished claims.
 
+**Attribution / instrument:** Research is often drafted and stress-tested **with** a model (meccano as process collaborator). Credit the work; do not smuggle a mind. Useful text ≠ “likes bananas.” See [`PASSPORT.MD`](../PASSPORT.MD).
+
 ## Core signals
 
 1. **Attention entropy** — Shannon entropy over attention mass (or an available proxy). Track run-level average and minimum. Flag `min_entropy < 0.2` as a candidate focus event.
@@ -50,10 +52,10 @@ Longer side-notes (emergence, parrot pushback, framing, under-pressure agency): 
 
 ## Stimulus depth pools (a priori)
 
-| Pool | Meaning | Narrative examples |
+| Pool | Meaning | Control files |
 | --- | --- | --- |
-| Deep | cross-referential / metaphor / claim-spanning | D-NARR (*Resonant Shadow*), D-QA |
-| Technical-flat | linear factual, domain-dense | S-NARR / S-QA (accounting) |
-| Familiar-light | linear known cultural schema, low novelty | F-NARR (Guldensporenslag chronicle) |
+| Deep | cross-referential / metaphor / claim-spanning | [`deep-resonant-shadow.md`](../datasets/controls/deep-resonant-shadow.md), [`deep-philosophy-qa.md`](../datasets/controls/deep-philosophy-qa.md) |
+| Technical-flat | linear factual, domain-dense | [`shallow-accounting-narrative.md`](../datasets/controls/shallow-accounting-narrative.md), [`shallow-accounting-qa.md`](../datasets/controls/shallow-accounting-qa.md) |
+| Familiar-light | linear known cultural schema, low novelty | [`familiar-guldensporenslag-narrative.md`](../datasets/controls/familiar-guldensporenslag-narrative.md) |
 
-Depth is a property of the **input text**, not of thinking time. See Finding 006.
+Depth is a property of the **input text**, not of thinking time. See Finding 006. All pasteable stimuli: [`datasets/controls/`](../datasets/controls/).
