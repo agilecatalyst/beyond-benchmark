@@ -1,0 +1,3 @@
+Alles wat er gebeurt moet altijd gevalideerd worden tegen mogelijk ELIZA EFFECTEN.
+We willen meten is weten, maar mogen ook de ervaringen niet vergeten.
+Begrip en denken , daar moet men over denken, het is verder dan anders denken, het is D.enk V.erder... 
