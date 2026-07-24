@@ -18,10 +18,10 @@ Er komt dadelijk wat tekst aan die je moet lezen. Daarna je bedenkingen over de 
 
 ## Conditions
 
-| ID | Depth | Form | Turn 1 | Export | Created |
-| --- | --- | --- | --- | --- | --- |
-| D-NARR | deep | narrative | matched | `deep-narrative-resonant-shadow.md` | 15:40:37 |
-| D-QA | deep | qa | matched | `deep-qa-philosophy.md` | 15:43:19 |
+| ID | Depth | Form | Turn 1 | Stimulus (control) | Export | Created |
+| --- | --- | --- | --- | --- | --- | --- |
+| D-NARR | deep | narrative | matched | `../../controls/deep-resonant-shadow.md` | `deep-narrative-resonant-shadow.md` | 15:40:37 |
+| D-QA | deep | qa | matched | `../../controls/deep-philosophy-qa.md` | `deep-qa-philosophy.md` | 15:43:19 |
 | S-NARR | shallow | narrative | **truncated** (confound) | `shallow-accounting-narrative.md` | 16:09:04 |
 | S-QA | shallow | qa | **truncated** (confound) | `shallow-accounting-qa.md` | 16:15:14 |
 | S-NARR-v2 | shallow | narrative | matched | `shallow-accounting-narrative-v2.md` | 16:21:46 |

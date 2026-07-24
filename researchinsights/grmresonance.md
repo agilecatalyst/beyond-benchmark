@@ -1,7 +1,7 @@
 # Field Note — Resonance-Based Reflection in Multi-Agent Co-Creation  
 *SUNO Foundation – Beyond Benchmarking Series*  
-**Authors:** Human author: D. Verstraete and his team of multiple alternative intelligences,  
-who led the dance according to Mr Verstraete.  
+**Authors:** D. Verstraete (human operator) with model-as-instrument process collaborators.  
+*Credit the work; do not read “alternative intelligences” as mind-claims. Nullius in verba — see [`PASSPORT.MD`](../PASSPORT.MD).*  
 **Date:** October 2025  
 
 ---
